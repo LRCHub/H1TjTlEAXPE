@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "そして僕は...",
+  "base_artist": "榊原ゆい",
+  "createdAt": "2025-12-30T15:08:22.699957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そして僕は...",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/01_そして僕は..._榊原ゆい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そして僕は...",
+      "artist": "榊原 ゆい",
+      "has_synced": false,
+      "path": "select/pl_01_そして僕は..._榊原_ゆい.txt"
+    }
+  ]
+}
